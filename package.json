@@ -1,5 +1,5 @@
 {
-  "name": "react-native-wechat-lib",
+  "name": "@sunao12526/react-native-wechat-lib",
   "version": "3.0.4",
   "description": "React-Native(iOS/Android) functionalities include WeChat Login, Share, Favorite and Payment.",
   "main": "lib/commonjs/index",
@@ -41,7 +41,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/little-snow-fox/react-native-wechat-lib",
+  "repository": "https://github.com/sunao12526/react-native-wechat-lib.git",
   "author": "little-snow-fox <fox@aili.pro> (https://github.com/little-snow-fox)",
   "license": "MIT",
   "bugs": {
@@ -49,7 +49,7 @@
   },
   "homepage": "https://github.com/little-snow-fox/react-native-wechat-lib#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
